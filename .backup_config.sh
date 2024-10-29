@@ -1,0 +1,6 @@
+LOCAL_BACKUP_DIR="/mnt/c/Users/ADMIN/Documents/Backups"
+HOST="172.104.152.119"
+REMOTE_USER="ronoc"
+REMOTE_BACKUP_DIR="/var/backup/backups"
+EXTERNAL_DRIVE="/mnt/e/Zandaux/Backups"
+REMOTE_SCRIPT_DIR="/var/backup/script"
